@@ -21,14 +21,14 @@ global.ownername = 'THE JO BOT'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
-// Other
-global.owner = ['60177426853','60177426853','60177426853']
-global.premium = ['60177426853']
+
+global.owner = ['16043053968']
+global.premium = ['16043053968']
 global.packname = 'The Jo Bot'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['#']
 global.sp = '⭔'
 global.mess = {
     success: '✓ Success',
